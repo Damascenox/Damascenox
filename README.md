@@ -17,26 +17,11 @@ Estudante de Estatística na UFMG (2º período, formatura 2028) com foco em tra
 **Ferramentas:** RStudio, VS Code, Jupyter Notebook  
 **Design:** HTML/CSS, LaTeX, Adobe Suite  
 
-## 🚀 Projeto Atual
-📊 **Análises Kaggle** - Pipeline completo: EDA → visualizações → modelos ML  
-*Stack: R (tidyverse, ggplot2/plotly)*
-
-## 🏅 Destaque
-🥇 Medalha de Ouro - Olimpíada Brasileira de Astronomia (OBA)
-
-## 🌀 Curiosidade
-Apaixonado por **fractais** - planejo criar visualizações de Mandelbrot/Julia em R
-
 ## 📈 Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Damascenox&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damascenox&layout=compact&theme=transparent&hide_border=true" height="150"/>
 </div>
-
-## 🎯 2025 Goals
-- [ ] Publicar 3 notebooks reproduzíveis
-- [ ] Criar visualizações de fractais  
-- [ ] Contribuir em projeto open source
 
 ---
 <div align="center">
