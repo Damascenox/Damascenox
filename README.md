@@ -11,17 +11,17 @@
 ## 🎯 Sobre
 Olá! Eu sou Arthur Damasceno 
 
-🎓  Estudante do 2º período do Bacharelado em Estatística na UFMG
+Estudante do 2º período do Bacharelado em Estatística na UFMG
 
-📊 Interessado em: Visualização de Dados, Aprendizado de Máquina, Design de Interface, Modelagem Matemática e Pesquisa Acadêmica 
+Interessado em: Visualização de Dados, Aprendizado de Máquina, Design de Interface, Modelagem Matemática e Pesquisa Acadêmica 
 
-💻 Habilidades Técnicas em Desenvolvimento:
+Habilidades Técnicas em Desenvolvimento:
 
 Programação: R, Python, Git, Linux, C
 Design e Documentação: HTML, CSS, LaTeX, Adobe Photoshop e Illustrator
 Principais IDEs: RStudio, Positron, VS Code
 
-🚀 Quando criança, eu certamente não sonhava em transformar dados não estruturados em insights de negócios acionáveis. No entanto, ao me deparar com esse universo, percebi a imensa oportunidade de causar impacto e a necessidade visceral por esse tipo de serviço. 
+Quando criança, eu certamente não sonhava em transformar dados não estruturados em insights de negócios acionáveis. No entanto, ao me deparar com esse universo, percebi a imensa oportunidade de causar impacto e a necessidade visceral por esse tipo de serviço. 
 
 Agora, anseio por fazer parte dessa transformação. Acredito que minha contribuição se dará através do desenvolvimento de técnico e matemático em análise estatística e, em paralelo, do aprimoramento de minhas habilidades de design, para criar visualizações de dados atraentes e amigáveis ao usuário, apoiando a cultura data-driven e otimização de processos.
 
