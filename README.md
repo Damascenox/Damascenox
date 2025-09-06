@@ -17,8 +17,10 @@ Interessado em: Visualização de Dados, Aprendizado de Máquina, Design de Inte
 
 Habilidades Técnicas em Desenvolvimento:
 
-Programação: R, Python, Git, C
+Programação: R, Python, Git, C  
+
 Design e Documentação: LaTeX, Adobe Photoshop e Illustrator
+
 Principais IDEs: RStudio, Positron, VS Code
 
 Quando criança, eu certamente não sonhava em transformar dados não estruturados em insights de negócios acionáveis. No entanto, ao me deparar com esse universo, percebi a imensa oportunidade de causar impacto e a necessidade visceral por esse tipo de serviço. 
