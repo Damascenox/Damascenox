@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arthur Damasceno
+# 📊 Arthur Damasceno
 **Estudante de Estatística UFMG | Data Science & Analytics**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Damascenox-blue?style=flat-square&logo=github)](https://github.com/Damascenox)
