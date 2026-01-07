@@ -21,10 +21,3 @@ Habilidades Técnicas em Desenvolvimento:
 Programação: R, Git, C  
 
 Principais IDEs: RStudio, Positron, VS Code
-
-## Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Damascenox&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damascenox&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</div>
-
