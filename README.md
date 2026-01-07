@@ -22,11 +22,6 @@ Programação: R, Git, C
 
 Principais IDEs: RStudio, Positron, VS Code
 
-
-Quando criança, eu certamente não sonhava em transformar dados não estruturados em insights de negócios acionáveis. No entanto, ao me deparar com esse universo, percebi a imensa oportunidade de causar impacto e a necessidade visceral por esse tipo de serviço. 
-
-Agora, anseio por fazer parte dessa transformação. Acredito que minha contribuição se dará através do desenvolvimento de técnico e matemático em análise estatística e, em paralelo, do aprimoramento de minhas habilidades de design, para criar visualizações de dados atraentes e amigáveis ao usuário, apoiando a cultura data-driven e otimização de processos.
-
 ## Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Damascenox&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150"/>
