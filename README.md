@@ -20,8 +20,6 @@ Habilidades Técnicas em Desenvolvimento:
 
 Programação: R, Git, C  
 
-Design e Documentação: LaTeX, Adobe Photoshop e Illustrator
-
 Principais IDEs: RStudio, Positron, VS Code
 
 
