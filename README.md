@@ -18,7 +18,7 @@ Interessado em: Visualização de Dados, Aprendizado de Máquina, Design de Inte
 
 Habilidades Técnicas em Desenvolvimento:
 
-Programação: R, Python, Git, C  
+Programação: R, Git, C  
 
 Design e Documentação: LaTeX, Adobe Photoshop e Illustrator
 
