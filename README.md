@@ -11,7 +11,7 @@
 ## Sobre
 Olá! Eu sou Arthur Damasceno 
 
-Estudante do 2º período do Bacharelado em Estatística na UFMG
+Estudante do 3º período do Bacharelado em Estatística na UFMG
 
 Interessado em: Visualização de Dados, Aprendizado de Máquina, Design de Interface e Pesquisa Acadêmica 
 
